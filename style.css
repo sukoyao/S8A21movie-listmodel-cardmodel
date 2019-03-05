@@ -1,0 +1,29 @@
+#search-bar {
+  float: left;
+}
+
+.row {
+  width: 100%;
+}
+
+.replace-box {
+  float: right;
+}
+
+a.btn {
+  color: black;
+  font-size: 26px;
+}
+
+.col-left {
+  float: left;
+}
+
+.col-right {
+  float: right;
+}
+
+.container {
+  text-align: center;
+  width: 100%;
+}
